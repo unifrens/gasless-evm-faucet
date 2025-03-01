@@ -1,4 +1,4 @@
-# EVM Chain Faucet Server
+# Unichain Sepolia/EVM Chain Faucet Server
 
 A configurable faucet server that can be used with any EVM-compatible blockchain. This server includes rate limiting, IP-based cooldowns, and Redis-based persistence.
 
